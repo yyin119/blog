@@ -1,3 +1,9 @@
+---
+tags:
+  - books
+  - comp-architecture
+  - low-level
+---
 # CSAPP chapter 1 - Tour of computer systems
 
 Programs start their lives as text files, which contain sequences of bytes, each representing an integer that maps to an ASCII character. E.g. 97 --> "a".

@@ -1,3 +1,8 @@
+---
+tags:
+  - learning
+  - ideas
+---
 # Topics to learn (draft)
 
 The list below contains topics I'd like to dive deeper into. Sub-topics are arranged in order of "fundamental-ness" (earlier topics are more fundamental than later ones).
