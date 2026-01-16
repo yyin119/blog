@@ -29,4 +29,4 @@ Notes:
 - Both TPR and FPR should decrease as the decision threshold increases (from top right to bottom left corner).
     - Intuition - Higher threshold = stricter = less positive predictions = lower recall but also lower FPR.
 - Inverse L shaped curves are better because TPR decreases much slower than FPR. In other words, we maintain TPR while lowering FPR as the decision threshold increases.
-- A perfect classifier would have a point at (0, 1).
+- A perfect classifier should have a precisely inverse L shape (left and top lines of plot). Starting from the top right at threshold = 0 (all predictions positive), increasing threshold decreases FPR without affecting TPR. Beyond the perfect point (top left), increasing threshold still decreases TPR because less predictions are positive.
